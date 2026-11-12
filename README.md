@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Happy Tyagi 👋
+# Hi there, I'm Happy Tyagi 
 
 **Software developer · Full-stack, desktop & machine learning**
 
@@ -10,13 +10,13 @@ I build things across the stack: web apps with Vue, React and Node, Windows desk
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎬 Currently building **[MovieMatch](https://github.com/Happytyagi1/moviematch)**, a movie recommender that learns your taste
-- 🗄️ I enjoy designing **databases** and putting business logic where it belongs
-- 🌐 I like **networking** work: TCP/UDP protocols, client–server systems and reliability
-- 🤖 I'm exploring **machine learning**: EDA, classification and recommender systems
-- 🔐 I care about **secure software**: authentication, access control and OWASP-minded design
+-  Currently building **[MovieMatch](https://github.com/Happytyagi1/moviematch)**, a movie recommender that learns your taste
+-  I enjoy designing **databases** and putting business logic where it belongs
+-  I like **networking** work: TCP/UDP protocols, client–server systems and reliability
+-  I'm exploring **machine learning**: EDA, classification and recommender systems
+-  I care about **secure software**: authentication, access control and OWASP-minded design
 
 ## 🛠️ Tech Stack
 
@@ -59,7 +59,7 @@ I build things across the stack: web apps with Vue, React and Node, Windows desk
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -72,12 +72,5 @@ I build things across the stack: web apps with Vue, React and Node, Windows desk
 | ⭐ **[Reddit Favourites](https://github.com/Happytyagi1/reddit-favourites)** | Devvit app that runs inside Reddit: browse hot posts and save favourites | React · TypeScript |
 | 🎙️ **[Speech Emotion Recognition](https://github.com/Happytyagi1/Speech-Emotion-Recognition)** | Detects emotions in speech from MFCC, chroma and mel features | Python · librosa · scikit-learn |
 
-## 🤝 Let's Connect
-
-I'm always happy to talk about projects, ideas or opportunities. Feel free to open an issue on any of my repos or reach out!
-
-<div align="center">
-
-⭐ *If you find something useful here, a star is always appreciated!*
 
 </div>
