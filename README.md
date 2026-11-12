@@ -10,6 +10,19 @@ I build things across the stack: web apps with Vue, React and Node, Windows desk
 
 ---
 
+##  Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🎬 **[MovieMatch](https://github.com/Happytyagi1/moviematch)** | A movie recommender that learns your taste, with hybrid ML on MovieLens and Google sign-in | Vue 3 · Express · MongoDB · Python · Cloud Run |
+| 🏭 **[FogLamp Kanban System](https://github.com/Happytyagi1/foglamp-kanban-system)** | Real-time simulation of an automotive assembly line driven by Kanban pull-replenishment | C# · WinForms · SQL Server |
+| 🏥 **[MedRecords EMR](https://github.com/Happytyagi1/EMR-Medical-Records-Database)** | Electronic medical records database, from ER design and 3NF to a WPF CRUD app | MySQL · C# · WPF |
+| 🏨 **[Hotel Booking Cancellation](https://github.com/Happytyagi1/hotel-booking-cancellation)** | EDA and ML to predict booking cancellations (ROC-AUC 0.85) | Python · pandas · scikit-learn |
+| 🔐 **[Secure Job Portal](https://github.com/Happytyagi1/secure-job-portal)** | Job application portal with JWT, roles, rate limiting and safe uploads | Node.js · Express · MongoDB |
+| 📡 **[ReliableUDP](https://github.com/Happytyagi1/ReliableUDP)** | File transfer over UDP with a custom protocol and MD5 integrity checks | C++ |
+| ⭐ **[Reddit Favourites](https://github.com/Happytyagi1/reddit-favourites)** | Devvit app that runs inside Reddit: browse hot posts and save favourites | React · TypeScript |
+| 🎙️ **[Speech Emotion Recognition](https://github.com/Happytyagi1/Speech-Emotion-Recognition)** | Detects emotions in speech from MFCC, chroma and mel features | Python · librosa · scikit-learn |
+
 ##  About Me
 
 -  Currently building **[MovieMatch](https://github.com/Happytyagi1/moviematch)**, a movie recommender that learns your taste
@@ -58,19 +71,3 @@ I build things across the stack: web apps with Vue, React and Node, Windows desk
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-##  Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🎬 **[MovieMatch](https://github.com/Happytyagi1/moviematch)** | A movie recommender that learns your taste, with hybrid ML on MovieLens and Google sign-in | Vue 3 · Express · MongoDB · Python · Cloud Run |
-| 🏭 **[FogLamp Kanban System](https://github.com/Happytyagi1/foglamp-kanban-system)** | Real-time simulation of an automotive assembly line driven by Kanban pull-replenishment | C# · WinForms · SQL Server |
-| 🏥 **[MedRecords EMR](https://github.com/Happytyagi1/EMR-Medical-Records-Database)** | Electronic medical records database, from ER design and 3NF to a WPF CRUD app | MySQL · C# · WPF |
-| 🏨 **[Hotel Booking Cancellation](https://github.com/Happytyagi1/hotel-booking-cancellation)** | EDA and ML to predict booking cancellations (ROC-AUC 0.85) | Python · pandas · scikit-learn |
-| 🔐 **[Secure Job Portal](https://github.com/Happytyagi1/secure-job-portal)** | Job application portal with JWT, roles, rate limiting and safe uploads | Node.js · Express · MongoDB |
-| 📡 **[ReliableUDP](https://github.com/Happytyagi1/ReliableUDP)** | File transfer over UDP with a custom protocol and MD5 integrity checks | C++ |
-| ⭐ **[Reddit Favourites](https://github.com/Happytyagi1/reddit-favourites)** | Devvit app that runs inside Reddit: browse hot posts and save favourites | React · TypeScript |
-| 🎙️ **[Speech Emotion Recognition](https://github.com/Happytyagi1/Speech-Emotion-Recognition)** | Detects emotions in speech from MFCC, chroma and mel features | Python · librosa · scikit-learn |
-
-
-</div>
